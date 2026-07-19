@@ -9,3 +9,4 @@ Countries with a higher government_support_score will have a lower reliance on t
 Validation: By analyzing the correlation between these indices, it was validated that higher government support correlates positively with higher mechanization and AI adoption indices, proving that policy directly drives technological farming practices.
 Nevertheless, it was discovered tha the dataset utilizes abstract "indices" (e.g., irrigation_index = 57.15) rather than absolute physical measurements (like gallons of water or tons of fertilizer).
 Resolution: For the purpose of this analysis, these variables are treated as relative comparative scores rather than absolute metrics. This constraint was noted before moving into the visualization phase.
+https://www.loom.com/share/a12df4e80afd401daf5a60c8d4fffe94
